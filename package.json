@@ -1,0 +1,16 @@
+{
+  "name": "sinister-cinema",
+  "version": "1.0.0",
+  "description": "Лендинг частного кинотеатра Sinister Cinema",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}
